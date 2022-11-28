@@ -29,7 +29,7 @@
                     </div>
                     <div class="price_slider-item-bottom">
                         <div class="price_item-btn">
-                            <a class="btn" href="#">Оставить заявку</a>
+                            <a class="btn" href="#contact">Оставить заявку</a>
                         </div>
                     </div>
                 </div>
@@ -54,7 +54,7 @@
                     </div>
                     <div class="price_slider-item-bottom">
                         <div class="price_item-btn">
-                            <a class="btn" href="#">Оставить заявку</a>
+                            <a class="btn" href="#contact">Оставить заявку</a>
                         </div>
                     </div>
                 </div>
@@ -79,7 +79,7 @@
                     </div>
                     <div class="price_slider-item-bottom">
                         <div class="price_item-btn">
-                            <a class="btn" href="#">Оставить заявку</a>
+                            <a class="btn" href="#contact">Оставить заявку</a>
                         </div>
                     </div>
                 </div>
