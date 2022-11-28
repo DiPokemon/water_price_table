@@ -72,7 +72,7 @@
                                 <div class="price"><?= $item->price_well?></div>
                             </div>
                             <div class="price_item-advantages">
-                                <div class="advantages_icon"></div>
+                                <div class="advantages_icon"><i aria-hidden="true" class="fas fa-check-circle"></i></div>
                                 <div class="advantages_text">Льгота <?= $item->benefit_well ?> руб.</div>
                             </div>                        
                         </div>
