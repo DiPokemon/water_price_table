@@ -22,7 +22,7 @@
                                 <div class="price"><?= $item->price_apparts?></div>
                             </div>
                             <div class="price_item-advantages">
-                                <div class="advantages_icon"></div>
+                                <div class="advantages_icon"><i aria-hidden="true" class="fas fa-check-circle"></i></div>
                                 <div class="advantages_text">Льгота <?= $item->benefit_apparts ?> руб.</div>
                             </div>                        
                         </div>
@@ -47,7 +47,7 @@
                                 <div class="price"><?= $item->price_house ?></div>
                             </div>
                             <div class="price_item-advantages">
-                                <div class="advantages_icon"></div>
+                                <div class="advantages_icon"><i aria-hidden="true" class="fas fa-check-circle"></i></div>
                                 <div class="advantages_text">Льгота <?= $item->benefit_house ?> руб.</div>
                             </div>                        
                         </div>
